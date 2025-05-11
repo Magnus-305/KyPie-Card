@@ -91,3 +91,8 @@ html,body {
     font-style: italic;
     font-size: 300px;
 }
+.click {
+    text-align: center;
+    color: #000;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
